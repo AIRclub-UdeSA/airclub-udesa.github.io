@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://airclub-udesa.github.io/jar_site/sitemap-index.xml
